@@ -1,2 +1,2 @@
-# sr-release
-sr-release
+# sr-releases
+sr-releases
