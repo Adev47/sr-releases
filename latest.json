@@ -1,11 +1,11 @@
 {
-  "version": "2.0.12",
-  "notes": "Status Rotator++ v2.0.12",
-  "pub_date": "2026-01-27T11:31:56Z",
+  "version": "2.0.13",
+  "notes": "Status Rotator++ v2.0.13",
+  "pub_date": "2026-01-27T12:39:55Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZWU4U0ordDByRHRYajQ1bHdmUnpDelIwYXpuR01Sd3g4YzNnYWVwbXlxZjVCbUNCT2JlUFUweitFN1Y2VFV0OGVCVjFZRE4zRVMzOW5uVWZnbjZPWGJLREthTW5Nb3djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NTEzMzQ0CWZpbGU6U3RhdHVzIFJvdGF0b3IrK18yLjAuMTJfeDY0LXNldHVwLmV4ZQp4RFppbHlTUmhwbUlPbldrbzRjWS9vckVqRUlsNjlLMzBDUGI1S05wL1Jhdms4UnJmTnZLb3R3dTEwUE5QQ010eEJ1Y2p6dVBHRGtvNGFJTDN0Z1REUT09Cg==",
-      "url": "https://github.com/Adev47/sr-releases/releases/download/v2.0.12/Status Rotator++_2.0.12_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZWU4U0ordDByRGpSeEt0NnFZRnpZUzJJaXMvRU5wTkoySGhkVDdlSFVhUjNhRG1Pd0d2Nmp0aHlUenRVT05rbTBoNm5hRmplR2liUUZPbE9KMzBHdHZ5YjZKUSs5NEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NTE3MjM1CWZpbGU6U3RhdHVzIFJvdGF0b3IrK18yLjAuMTNfeDY0LXNldHVwLmV4ZQp3NDBybURsVUFFVTdKUkE1cXpqaHdid01FR3pGSWl6Q0VwdWNxamROU294R3hxSjZFc2k2WnRCQ0FSS25Va3NwcjhSTHhzNzI0SXBxQkpXd2VCMzVBZz09Cg==",
+      "url": "https://github.com/Adev47/sr-releases/releases/download/v2.0.13/Status Rotator++_2.0.13_x64-setup.exe"
     }
   }
 }
