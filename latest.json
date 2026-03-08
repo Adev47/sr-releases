@@ -1,19 +1,19 @@
 {
-  "version": "2.0.29",
-  "notes": "Status Rotator++ v2.0.29",
-  "pub_date": "2026-02-22T14:34:55Z",
+  "version": "2.0.30",
+  "notes": "Status Rotator++ v2.0.30",
+  "pub_date": "2026-03-08T01:30:40Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZWU4U0ordDByRGh5UklxaTZBZ3ROelJGZVFaaTBqNHhZanpkMVdNdjZTKytCV3JwbWZ5TWF6cEFqajFURHpKeUhtd2JQcXQ4cmU4RXlsZTVHZWs4T1I0Zi90Wno4VndBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNzcwNjk2CWZpbGU6U3RhdHVzX1JvdGF0b3JfMi4wLjI5X3g2NC1zZXR1cC5leGUKMTdYbmV3V3grQUd3WVZ6aDg2V2tYMG5FYkhqeUxEK3NqVVdkODlEcTZVK3NyVGFNZzdsNHFMSXhyRi9tYmtrTWk2T2sxTjMyRVNhM1g3R0duQjFWQ3c9PQo=",
-      "url": "https://github.com/Adev47/sr-releases/releases/download/v2.0.29/Status_Rotator_2.0.29_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZWU4U0ordDByRG9KRElLK1FCZEwveE5zV2JHd2Z2RE16RjRjaFB6U0p0MjYwNFJ1NHZhakZvNWJiTkNSSzV4VFJCRHlPK1p2RGdHdkh1eFJBOGlZNE1VdHUvSlFHM3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyOTMyODQ2CWZpbGU6U3RhdHVzX1JvdGF0b3JfMi4wLjMwX3g2NC1zZXR1cC5leGUKZkdUZGdSNkJhemQwTUdFZ1pobXZuRndxSEVqeUVyVC9OUjJLT2Nqem9uQTY1eXBra0ZZd1lyclM0VGtValkwS0d6Y3g1TkdDVEdIVDRRaUNGWmV6Qnc9PQo=",
+      "url": "https://github.com/Adev47/sr-releases/releases/download/v2.0.30/Status_Rotator_2.0.30_x64-setup.exe"
     },
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZWU4U0ordDByRG1oWGRLYm8zWlMrRXFCdlNiZmFkb2hzZUpadnRKZEpDNlkxSE5IMzAxSXMzK0xhWnhIRkxHZUF6M2k1Wld2aUI5cndPR2F1dnozWVpjSVkyVkpVQVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNzY5OTkwCWZpbGU6U3RhdHVzX1JvdGF0b3IuYXBwLnRhci5nego2SG5JNDV4aUpvc1hMN2xrMWRsdS9RYTRJY3d6MnRIYkphQ1BMK3FxazJpYitzNUhmMXRpR0t0MkpZTUdHUVRiVWNCRFUwcENuVnpFZWhSdXVIL2FDZz09Cg==",
-      "url": "https://github.com/Adev47/sr-releases/releases/download/v2.0.29/Status_Rotator_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZWU4U0ordDByRHE1ZzNubWUvQ1JXUStSY1ZYWUlDOE9xNXNiclp2aVM5M0VDMjNWUGdNenM2bmNiSFVEMkl4RnZMdjVtTThMR2t0ZVpHbEc2eE94bXFmTXJvaGI2UVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyOTMyNjE3CWZpbGU6U3RhdHVzX1JvdGF0b3IuYXBwLnRhci5negpJWlVOYm02aTN0NDZXWkllYnpWdDlRQS85WUNrdzRFcC8raTlxaVE2citBQjNueDErRURaeTdSZy9IUURtYWoyZ3QySm1mWm9rVDh6SDRKczROWVdDQT09Cg==",
+      "url": "https://github.com/Adev47/sr-releases/releases/download/v2.0.30/Status_Rotator_x64.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZWU4U0ordDByRHFtdDJtaHh2azRBeUtZK0FrRmd0Tm9paE1wdjFxRU9MaWhHR0xVVEpMd3NBYWc4Y3R3NXErQmNERjJOdGxIMnA4eUE1TGUxN3J0bDR0cENDeVRtb1FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNzY5OTI4CWZpbGU6U3RhdHVzX1JvdGF0b3IuYXBwLnRhci5negovZnZLRUhZQnlZYUxWVW5LNmtYL0pKL0hNcmR4WnZzcDFNSlRuUmRGdEdnYmZEOTl3dGEwN0dsMjNTWGVTeTdMbElsVWIyRnN2VDdtZlRLTGhtR2RDdz09Cg==",
-      "url": "https://github.com/Adev47/sr-releases/releases/download/v2.0.29/Status_Rotator_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZWU4U0ordDByRHE5b2NILzRSOWxCcGJtSDl2RlpsaTBiSXBLMExxYVM0L3luVEdNZDFzM0JHNVdFNzVaVzFtZG5lWnQ0bkx4ZVdNQTduUlJwZ1NTaU9wem1UWHFwb1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcyOTMyNzA3CWZpbGU6U3RhdHVzX1JvdGF0b3IuYXBwLnRhci5negprQWUzN0Q2bFdKbnZ6bkhmWW10N2EwWWdtRDZEUEpIejhaMko5MUYxWUU1Rkgxa3BxM3FNZ3YwMU4yYjRUaDVpYXgvdCtsMHZBam5KWVdpQzhCVUdDZz09Cg==",
+      "url": "https://github.com/Adev47/sr-releases/releases/download/v2.0.30/Status_Rotator_aarch64.app.tar.gz"
     }
   }
 }
